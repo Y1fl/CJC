@@ -6,6 +6,8 @@
 
 - CJC is the first labeled dataset of Chinese jargons, which divides jargons into seven categories, including 'Drug', 'Gambling', 'Pornography', 'Violence', 'Fraud', 'Hacking' and 'Others'.
 
+- Using the BIOES tagging scheme.
+
 - The data comes from Chinese underground forums on the darknet where cybercriminal activities are active.
 
 - CJC contains 33,668 sentences, including 19,675 sentences containing jargons and 13,993 normal sentences. A total of 45,079 jargons were labeled, including 1,796 unduplicated jargons. The details are as follows:
