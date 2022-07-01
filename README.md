@@ -21,11 +21,13 @@
   |   Others    |   2,998    |  4,860   |          47           |        梯子(ladder), 洋葱(onion)         |
 
 
+
 ## Labeling Strategy
 
 - The term is a normal word which has a normal meaning, but when the context is considered, it clearly means something else associated with cybercriminal acts (e.g., "猪肉" (pork), "水果" (fruit)).
 
 - The term is a new word that has never been seen before, and judging from the context, it clearly has a Implicit meaning and is related to cybercrime (e.g., "洗信人" (letter washer), "轨道料'' (rail material)).
+
 
 
 ## Data Sources
